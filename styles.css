@@ -1,0 +1,22 @@
+div{
+	margin-bottom: 30px;
+}
+#heading{
+	margin-bottom: 30px;
+	font-size: 30px;
+}
+
+body{
+	position: relative;
+}
+
+section{
+	position:absolute;
+	right: 450px;
+	left: 450px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
